@@ -1,0 +1,26 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "RedHatScreener",
+  "main": "index.js",
+  "scripts": {
+    "test": "screener -test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nan-x/Red_Hat_Screener.git"
+  },
+  "author": "Rhianna Paine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nan-x/Red_Hat_Screener/issues"
+  },
+  "homepage": "https://github.com/Nan-x/Red_Hat_Screener#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.3.0"
+  }
+}
